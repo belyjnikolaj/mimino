@@ -1,21 +1,21 @@
 {
-  "name": "mimino-group16-project",
+  "name": "mimino",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://levchsergey86.github.io/mimino-group16-project",
+  "homepage": "https://belyjnikolaj.github.io/mimino",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /mimino-group16-project/"
+    "build": "parcel build src/*.html --public-url /mimino/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/levchsergey86/mimino-group16-project.git"
+    "url": "git+https://github.com/belyjnikolaj/mimino.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/levchsergey86/mimino-group16-project/issues"
+    "url": "https://github.com/belyjnikolaj/mimino/issues"
   },
   "dependencies": {
     "imask": "^6.4.3",
